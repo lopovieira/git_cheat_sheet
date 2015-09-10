@@ -1,3 +1,7 @@
+**********
+// Branch master cheat_sheet.txt
+**********
+
 Create branch
 $ git branch <branchname>
 
@@ -58,3 +62,7 @@ Initialize git repo
 $ git init
 
 //random stuff..
+
+**********
+// Branch master cheat_sheet.txt
+**********
