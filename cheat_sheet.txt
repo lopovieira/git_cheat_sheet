@@ -1,3 +1,31 @@
+Differences
+$ git diff
+
+	options
+	--staged // changes between stage and last commit
+
+Reset local changes
+$ git checkout
+	
+	options
+	<filename> // reset local changes on a file
+
+Reset the stage
+$ git reset HEAD
+	
+	options
+	<filename> // unstage file
+
+Remove commit
+$ git reset <commit>
+	
+	options
+	--hard // remove changes
+
+Amend last commit
+$ git commit --amend
+
+
 Log and alias
 $ git log
  
