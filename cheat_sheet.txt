@@ -50,3 +50,5 @@ $ git config --global user.email <email>
 
 Initialize git repo
 $ git init
+
+//random stuff..
