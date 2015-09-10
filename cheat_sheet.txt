@@ -61,7 +61,14 @@ $ git config --global user.email <email>
 Initialize git repo
 $ git init
 
-//random stuff..
+Merge branch
+$ git merge <branchname>
+
+Merge tool
+$ git mergetool
+
+Add remote
+$ git remote add origin <url>
 
 **********
 // Branch master cheat_sheet.txt
