@@ -1,3 +1,9 @@
+Create branch
+$ git branch <branchname>
+
+Change to branch
+$git checkout <branchname>
+
 Differences
 $ git diff
 
