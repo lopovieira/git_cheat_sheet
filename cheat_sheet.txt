@@ -1,3 +1,16 @@
+Log and alias
+$ git log
+ 
+	//options
+	--graph
+	--oneline
+	-p
+	-1
+	--decorate
+
+Create alias
+$ git config --global alias.lg 'log --graph --oneline --decorate -all'
+
 New Git Commands
 $ git add 
 $ git commit -m "<message>"
